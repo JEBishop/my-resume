@@ -1,3 +1,3 @@
 # my-resume
 
-[![Build Status](https://github.com/JEBishop/my-resume/Build/badge.svg?branch=main)](https://github.com/JEBishop/my-resume/actions?query=branch%3Amain)
+![Build LaTeX Document](https://github.com/JEBishop/my-resume/actions/workflows/build.yml/badge.svg)
